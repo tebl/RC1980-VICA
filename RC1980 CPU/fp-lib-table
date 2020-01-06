@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name PAD)(type KiCad)(uri $KIPRJMOD/modules/pad.pretty)(options "")(descr ""))
+  (lib (name mounting)(type KiCad)(uri $KIPRJMOD/../common/modules/mounting.pretty)(options "")(descr ""))
 )
